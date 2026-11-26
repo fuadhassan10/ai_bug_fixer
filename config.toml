@@ -1,0 +1,60 @@
+[theme]
+
+base = "dark"
+primaryColor = "#424300"
+backgroundColor = "#129eab"
+secondaryBackgroundColor = "#25a43f9e"
+textColor = "#260e76"
+# linkColor = "#60A5FA"
+# linkUnderline = true
+# codeBackgroundColor = "#1E293B"
+
+# font = "sans-serif"
+# baseFontSize = 16
+baseFontWeight = 500
+
+# headingFont = "sans-serif"
+# headingFontSizes = ["40px", "32px", "24px"]
+# headingFontWeights = [700, 600, 500]
+
+# codeFont = "monospace"
+# codeFontSize = "14px"
+# codeFontWeight = 400
+
+# baseRadius = "12px"
+# buttonRadius = "20px"
+# borderColor = "#475569"
+# dataframeBorderColor = "#475569"
+# dataframeHeaderBackgroundColor = "#1E293B"
+
+# showWidgetBorder = true
+# showSidebarBorder = true
+
+# chartCategoricalColors = ["#6366F1", "#22C55E", "#F97316", "#EC4899"]
+
+# chartSequentialColors = ["#EFF6FF", "#DBEAFE", "#BFDBFE", "#93C5FD", "#60A5FA", "#3B82F6", "#2563EB", "#1D4ED8", "#1E40AF", "#1E3A8A"]
+
+
+[theme.sidebar]
+
+# primaryColor = "#6366F1"
+# backgroundColor = "#111827"
+# secondaryBackgroundColor = "#1F2937"
+# textColor = "#FFFFFF"
+# linkColor = "#60A5FA"
+# linkUnderline = true
+# codeBackgroundColor = "#1E293B"
+
+# font = "sans-serif"
+# headingFont = "sans-serif"
+# headingFontSizes = ["24px", "20px", "18px"]
+# headingFontWeights = [700, 600, 500]
+
+# codeFont = "monospace"
+# codeFontSize = "14px"
+# codeFontWeight = 400
+
+# baseRadius = "12px"
+# buttonRadius = "20px"
+# borderColor = "#475569"
+# showWidgetBorder = true
